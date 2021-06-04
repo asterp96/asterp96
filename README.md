@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting familiar with coding and machine learning.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate, maybe on some easy projects
-- 📫 How to reach me avanish.parmessur@gmail.com
+- 📫 How to reach me avanishparmessur96@gmail.com
 
 <!---
 asterp96/asterp96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
