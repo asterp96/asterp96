@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asterp96
+- 👋 Hi, I’m Avanish and the username is a pun in mauritian creole and an obscure cartoon reference @asterp96
 - 👀 I’m interested in getting familiar with coding and machine learning.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate, maybe on some easy projects
